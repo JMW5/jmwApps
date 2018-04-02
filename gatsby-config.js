@@ -2,6 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'JMW Apps',
   },
+  pathPrefix: "/jmwApps",
   plugins: [
   	'gatsby-plugin-react-helmet',
   	'gatsby-plugin-sass',
